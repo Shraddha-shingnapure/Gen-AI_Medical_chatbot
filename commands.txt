@@ -1,0 +1,9 @@
+python -m venv venv
+
+venv\Scripts\activate  pip install 
+
+streamlit langchain langchain-community langchain-huggingface faiss-cpu python-dotenv
+
+pip install sentence-transformers
+
+streamlit run faq.py

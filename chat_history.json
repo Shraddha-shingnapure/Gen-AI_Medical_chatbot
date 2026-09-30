@@ -1,0 +1,156 @@
+[
+  {
+    "session_id": "session_1",
+    "title": "Chat 2026-04-17 17:57",
+    "date": "2026-04-17 17:57",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Hi! History is **persistent**. Ask FAQs! 💬"
+      },
+      {
+        "role": "user",
+        "content": "what to do for diabetes"
+      },
+      {
+        "role": "assistant",
+        "content": "## 📋 **FAQ Results**\n\n**Match 1**: ---\n\n## Chronic Diseases\n\nQ: What is diabetes?\nA: Diabetes is a chronic condition where the body cannot properly regulate blood sugar levels.\n\nQ: What are common symptoms of diabetes?\nA: Symptoms include increased thirst, frequent urination, fatigue, and blurred vision.\n\n**Match 2**: Q: What should I do if I miss a dose of medication?\nA: Take the missed dose as soon as you remember unless it is close to the next scheduled dose. Do not double the dose.\n\n---\n\n## Chronic Diseases\n\n**Match 3**: Q: What are common symptoms of dehydration?\nA: Common symptoms include dry mouth, excessive thirst, dark urine, dizziness, and fatigue.\n\n---\n\n## Medications"
+      },
+      {
+        "role": "user",
+        "content": "what to do when heartattack "
+      },
+      {
+        "role": "assistant",
+        "content": "## 📋 **FAQ Results**\n\n**Match 1**: ---\n\n## Emergency Situations\n\nQ: What should I do in case of a heart attack?\nA: Call emergency services immediately, keep the person calm, and if trained, perform CPR if necessary.\n\n**Match 2**: Q: When should I go to the emergency room?\nA: Go to the ER for severe symptoms such as chest pain, difficulty breathing, severe injuries, or sudden neurological issues.\n\n---\n\n## Lifestyle\n\n**Match 3**: Q: What should I do if I miss a dose of medication?\nA: Take the missed dose as soon as you remember unless it is close to the next scheduled dose. Do not double the dose.\n\n---\n\n## Chronic Diseases"
+      }
+    ]
+  },
+  {
+    "session_id": "chat_2_1800",
+    "title": "FAQ Chat - what to do for fever ",
+    "date": "04/17 18:00",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Hi! History is **persistent**. Ask FAQs! 💬"
+      },
+      {
+        "role": "user",
+        "content": "what to do for diabetes"
+      },
+      {
+        "role": "assistant",
+        "content": "## 📋 **FAQ Results**\n\n**Match 1**: ---\n\n## Chronic Diseases\n\nQ: What is diabetes?\nA: Diabetes is a chronic condition where the body cannot properly regulate blood sugar levels.\n\nQ: What are common symptoms of diabetes?\nA: Symptoms include increased thirst, frequent urination, fatigue, and blurred vision.\n\n**Match 2**: Q: What should I do if I miss a dose of medication?\nA: Take the missed dose as soon as you remember unless it is close to the next scheduled dose. Do not double the dose.\n\n---\n\n## Chronic Diseases\n\n**Match 3**: Q: What are common symptoms of dehydration?\nA: Common symptoms include dry mouth, excessive thirst, dark urine, dizziness, and fatigue.\n\n---\n\n## Medications"
+      },
+      {
+        "role": "user",
+        "content": "what to do when heartattack "
+      },
+      {
+        "role": "assistant",
+        "content": "## 📋 **FAQ Results**\n\n**Match 1**: ---\n\n## Emergency Situations\n\nQ: What should I do in case of a heart attack?\nA: Call emergency services immediately, keep the person calm, and if trained, perform CPR if necessary.\n\n**Match 2**: Q: When should I go to the emergency room?\nA: Go to the ER for severe symptoms such as chest pain, difficulty breathing, severe injuries, or sudden neurological issues.\n\n---\n\n## Lifestyle\n\n**Match 3**: Q: What should I do if I miss a dose of medication?\nA: Take the missed dose as soon as you remember unless it is close to the next scheduled dose. Do not double the dose.\n\n---\n\n## Chronic Diseases"
+      },
+      {
+        "role": "user",
+        "content": "what to do for fever "
+      },
+      {
+        "role": "assistant",
+        "content": "Q: When should I see a doctor for a fever?\nA: You should see a doctor if the fever lasts more than 3 days, exceeds 39°C (102°F), or is accompanied by severe symptoms like difficulty breathing or confusion.\nFAQs \n# Medical FAQ Dataset\n\n## General Health\n\nQ: What is a fever?\nA: A fever is a temporary increase in body temperature, often due to an illness. It is usually defined as a temperature above 38°C (100.4°F).\n---\n\n## Emergency Situations\n\nQ: What should I do in case of a heart attack?\nA: Call emergency services immediately, keep the person calm, and if trained, perform CPR if necessary."
+      }
+    ]
+  },
+  {
+    "session_id": "chat_3_1204",
+    "title": "FAQ Chat - what to do for diabetes",
+    "date": "04/18 12:04",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "👋 History works! Ask 'hours' to test & save."
+      },
+      {
+        "role": "user",
+        "content": "what to do for diabetes"
+      },
+      {
+        "role": "assistant",
+        "content": "---\n\n## Chronic Diseases\n\nQ: What is diabetes?\nA: Diabetes is a chronic condition where the body cannot properly regulate blood sugar levels.\n\nQ: What are common symptoms of diabetes?\nA: Symptoms include increased thirst, frequent urination, fatigue, and blurred vision.\nQ: What should I do if I miss a dose of medication?\nA: Take the missed dose as soon as you remember unless it is close to the next scheduled dose. Do not double the dose.\n\n---\n\n## Chronic Diseases\nQ: What are common symptoms of dehydration?\nA: Common symptoms include dry mouth, excessive thirst, dark urine, dizziness, and fatigue.\n\n---\n\n## Medications"
+      }
+    ]
+  },
+  {
+    "session_id": "chat_4_1352",
+    "title": "FAQ Chat - what to do in case of fever ",
+    "date": "04/20 13:52",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "👋 History works! Ask 'hours' to test & save."
+      },
+      {
+        "role": "user",
+        "content": "what to do in case of fever "
+      },
+      {
+        "role": "assistant",
+        "content": "Q: When should I see a doctor for a fever?\nA: You should see a doctor if the fever lasts more than 3 days, exceeds 39°C (102°F), or is accompanied by severe symptoms like difficulty breathing or confusion.\nFAQs \n# Medical FAQ Dataset\n\n## General Health\n\nQ: What is a fever?\nA: A fever is a temporary increase in body temperature, often due to an illness. It is usually defined as a temperature above 38°C (100.4°F).\n---\n\n## Emergency Situations\n\nQ: What should I do in case of a heart attack?\nA: Call emergency services immediately, keep the person calm, and if trained, perform CPR if necessary."
+      }
+    ]
+  },
+  {
+    "session_id": "chat_5_1130",
+    "title": "FAQ Chat - what are the symptoms for dengue",
+    "date": "08/06 11:30",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "👋 History works! Ask 'hours' to test & save."
+      },
+      {
+        "role": "user",
+        "content": "what are the symptoms for dengue"
+      },
+      {
+        "role": "assistant",
+        "content": "Q: What are common symptoms of dehydration?\nA: Common symptoms include dry mouth, excessive thirst, dark urine, dizziness, and fatigue.\n\n---\n\n## Medications\nQ: What are signs of a stroke?\nA: Signs include sudden numbness, confusion, trouble speaking, and loss of balance. Immediate medical attention is critical.\nQ: When should I see a doctor for a fever?\nA: You should see a doctor if the fever lasts more than 3 days, exceeds 39°C (102°F), or is accompanied by severe symptoms like difficulty breathing or confusion."
+      }
+    ]
+  },
+  {
+    "session_id": "chat_6_1134",
+    "title": "FAQ Chat - what can do in dengue ",
+    "date": "08/06 11:34",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Hi! History is **persistent**. Ask FAQs! 💬"
+      },
+      {
+        "role": "user",
+        "content": "what to do for diabetes"
+      },
+      {
+        "role": "assistant",
+        "content": "## 📋 **FAQ Results**\n\n**Match 1**: ---\n\n## Chronic Diseases\n\nQ: What is diabetes?\nA: Diabetes is a chronic condition where the body cannot properly regulate blood sugar levels.\n\nQ: What are common symptoms of diabetes?\nA: Symptoms include increased thirst, frequent urination, fatigue, and blurred vision.\n\n**Match 2**: Q: What should I do if I miss a dose of medication?\nA: Take the missed dose as soon as you remember unless it is close to the next scheduled dose. Do not double the dose.\n\n---\n\n## Chronic Diseases\n\n**Match 3**: Q: What are common symptoms of dehydration?\nA: Common symptoms include dry mouth, excessive thirst, dark urine, dizziness, and fatigue.\n\n---\n\n## Medications"
+      },
+      {
+        "role": "user",
+        "content": "what to do when heartattack "
+      },
+      {
+        "role": "assistant",
+        "content": "## 📋 **FAQ Results**\n\n**Match 1**: ---\n\n## Emergency Situations\n\nQ: What should I do in case of a heart attack?\nA: Call emergency services immediately, keep the person calm, and if trained, perform CPR if necessary.\n\n**Match 2**: Q: When should I go to the emergency room?\nA: Go to the ER for severe symptoms such as chest pain, difficulty breathing, severe injuries, or sudden neurological issues.\n\n---\n\n## Lifestyle\n\n**Match 3**: Q: What should I do if I miss a dose of medication?\nA: Take the missed dose as soon as you remember unless it is close to the next scheduled dose. Do not double the dose.\n\n---\n\n## Chronic Diseases"
+      },
+      {
+        "role": "user",
+        "content": "what can do in dengue "
+      },
+      {
+        "role": "assistant",
+        "content": "Q: When should I see a doctor for a fever?\nA: You should see a doctor if the fever lasts more than 3 days, exceeds 39°C (102°F), or is accompanied by severe symptoms like difficulty breathing or confusion.\nFAQs \n# Medical FAQ Dataset\n\n## General Health\n\nQ: What is a fever?\nA: A fever is a temporary increase in body temperature, often due to an illness. It is usually defined as a temperature above 38°C (100.4°F).\n---\n\n## Preventive Care\n\nQ: Why are vaccines important?\nA: Vaccines help protect against serious diseases by strengthening the immune system.\n\nQ: How often should I get a health check-up?\nA: It is generally recommended to have a check-up once a year, but it depends on age and health condition."
+      }
+    ]
+  }
+]

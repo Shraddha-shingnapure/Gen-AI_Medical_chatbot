@@ -1,0 +1,93 @@
+FAQs 
+# Medical FAQ Dataset
+
+## General Health
+
+Q: What is a fever?
+A: A fever is a temporary increase in body temperature, often due to an illness. It is usually defined as a temperature above 38°C (100.4°F).
+
+Q: When should I see a doctor for a fever?
+A: You should see a doctor if the fever lasts more than 3 days, exceeds 39°C (102°F), or is accompanied by severe symptoms like difficulty breathing or confusion.
+
+Q: What are common symptoms of dehydration?
+A: Common symptoms include dry mouth, excessive thirst, dark urine, dizziness, and fatigue.
+
+---
+
+## Medications
+
+Q: What is the difference between antibiotics and antivirals?
+A: Antibiotics treat bacterial infections, while antivirals are used to treat viral infections.
+
+Q: Can I take antibiotics without a prescription?
+A: No, antibiotics should only be taken when prescribed by a qualified healthcare professional.
+
+Q: What should I do if I miss a dose of medication?
+A: Take the missed dose as soon as you remember unless it is close to the next scheduled dose. Do not double the dose.
+
+---
+
+## Chronic Diseases
+
+Q: What is diabetes?
+A: Diabetes is a chronic condition where the body cannot properly regulate blood sugar levels.
+
+Q: What are common symptoms of diabetes?
+A: Symptoms include increased thirst, frequent urination, fatigue, and blurred vision.
+
+Q: How can hypertension be managed?
+A: Hypertension can be managed through lifestyle changes like diet, exercise, and medication as prescribed by a doctor.
+
+---
+
+## Mental Health
+
+Q: What is anxiety?
+A: Anxiety is a mental health condition characterized by feelings of worry, nervousness, or fear.
+
+Q: When should I seek help for anxiety?
+A: You should seek help if anxiety interferes with daily life, work, or relationships.
+
+Q: What are common treatments for depression?
+A: Treatments include therapy, medication, lifestyle changes, and support systems.
+
+---
+
+## Preventive Care
+
+Q: Why are vaccines important?
+A: Vaccines help protect against serious diseases by strengthening the immune system.
+
+Q: How often should I get a health check-up?
+A: It is generally recommended to have a check-up once a year, but it depends on age and health condition.
+
+Q: What is a balanced diet?
+A: A balanced diet includes a variety of foods such as fruits, vegetables, proteins, grains, and healthy fats.
+
+---
+
+## Emergency Situations
+
+Q: What should I do in case of a heart attack?
+A: Call emergency services immediately, keep the person calm, and if trained, perform CPR if necessary.
+
+Q: What are signs of a stroke?
+A: Signs include sudden numbness, confusion, trouble speaking, and loss of balance. Immediate medical attention is critical.
+
+Q: When should I go to the emergency room?
+A: Go to the ER for severe symptoms such as chest pain, difficulty breathing, severe injuries, or sudden neurological issues.
+
+---
+
+## Lifestyle
+
+Q: How much exercise is recommended per week?
+A: At least 150 minutes of moderate-intensity exercise per week is recommended.
+
+Q: How much water should I drink daily?
+A: Typically 2–3 liters per day, but needs may vary based on activity and climate.
+
+Q: What are the effects of smoking?
+A: Smoking increases the risk of lung disease, heart disease, and cancer.
+
+---
